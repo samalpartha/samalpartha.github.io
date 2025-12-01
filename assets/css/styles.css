@@ -442,6 +442,25 @@ strong.highlight {
 	transform: translateX(5px);
 }
 
+/* Speaking Section - Vibrant Subtitle Headers */
+#speaking .subtitle.is-4 {
+	background: linear-gradient(135deg, var(--color-accent-cyan) 0%, var(--color-accent-purple) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	font-weight: 700;
+}
+
+/* Publications Section - Vibrant Category Headers */
+#publications .content>p>strong {
+	background: linear-gradient(135deg, var(--color-accent-emerald) 0%, var(--color-accent-cyan) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	font-weight: 700;
+	font-size: 1.1rem;
+}
+
 .content ul {
 	margin-left: 1.5rem;
 }
