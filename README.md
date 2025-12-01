@@ -1,40 +1,35 @@
-# Studorlio
+# Partha Sarathi Samal - Professional Portfolio
 
-Studorlio is a template for your own personal site. You can have yours running on the cloud in exactly 10 seconds. But first, make sure you have a GitHub account. Ready, set, go!
+AI-Driven Quality Engineering Leader · SDET Manager · Inventor · Bestselling Author
 
-![Display Image](https://raw.githubusercontent.com/helfi92/studorlio/master/assets/img/studorlio.png)
+## 🌐 Live Site
 
-## Getting Started
-1. Fork the repository to make it yours.
-2. Rename the forked repository to `username.github.io`, where `username` is your GitHub username.
-3. That's it! Navigate to `username.github.io` to see your website :) 
+Visit my portfolio at: **[https://samalpartha.github.io](https://samalpartha.github.io)**
 
-If this is your first time making a website and is having trouble getting started, that's ok. Head over to the [FAQ](#faq) section and let me try help you.
+## 👨‍💻 About
 
-## Demo
-[http://www.hassanali.me/studorlio/](http://www.hassanali.me/studorlio/)
+This portfolio showcases my professional achievements, patents, publications, speaking engagements, and expertise in AI-Driven Quality Engineering and Software Testing Automation for Digital Media and Streaming.
 
-## FAQ
-* [How do I fork this repository?](#how-do-i-fork-this-repository)
-* [How do I rename the forked repository?](#how-do-i-rename-the-forked-repository)
-* [How do I run the portfolio locally?](#how-do-i-run-the-portfolio-locally)
+### Highlights
 
-### How do I fork this repository?
-1. Make sure you're logged into GitHub with your account
-2. Click the Fork button on the upper right-hand side of this page
+- **7 patents** in AI/ML/NLP for media and streaming
+- **Bestselling author** of *In-Sprint Automation Mastery*
+- **PractiTest QA Leader Award** nominee
+- **International speaker** at STAREAST, AI4Software, and more
+- **Top 50 QA mentor** on ADPList
+- **Fellow Member** of International Scientific Society
 
-### How do I rename the forked repository?
-1. Navigate to the main page of the repository. It should be `https://github.com/username/studorlio/`, where `username` is your GitHub username
-2. Click Settings
-3. Under the Repository name heading, type `username.github.io` then click Rename
+## 🔗 Connect
 
-### How do I run the portfolio locally?
-1. Right click (Windows) or double click (Mac) `index.html` and select "Open with"
-2. Pick your browser of choice
+- [LinkedIn](https://www.linkedin.com/in/partha-sarathi-samal)
+- [Topmate](https://topmate.io/parthasarathisamal/page/eKRQLpw5DC)
+- [ADPList](https://adplist.org/mentors/partha-samal)
+- [Sessionize](https://sessionize.com/partha-samal/)
 
-## Bugs and Issues
-Have a bug or an issue with this template? [Open a new issue](https://github.com/helfi92/studorlio/issues)
+## 📄 License
 
-## License
-Code released under the [MIT](https://github.com/helfi92/studorlio/blob/master/LICENSE) license
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+© 2024 Partha Sarathi Samal. All rights reserved.
