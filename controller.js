@@ -1,11 +1,16 @@
-window.onload = () => {
-  const navMenu = document.querySelector('.nav-menu');
-  const navItems = document.querySelectorAll('.nav-item');
-  const hamburger = document.querySelector('.nav-toggle');
-  
-  const toggle = e => e.classList.toggle('is-active');
-  const toggleNav = ({ target }) => Array.from(navMenu.classList).includes('is-active') ? toggle(navMenu) : null;
+document.addEventListener('DOMContentLoaded', () => {
+  const menu = document.querySelector('.nav-menu');
+  const toggle = document.querySelector('.nav-toggle');
+  if (!menu || !toggle) return;
 
-  hamburger.addEventListener('click', () => toggle(navMenu, 'is-active'));
-  Array.from(navItems).forEach(e => e.addEventListener('click', toggleNav));
-}
+  const setOpen = (open) => {
+    menu.classList.toggle('is-active', open);
+    toggle.classList.toggle('is-active', open);
+    toggle.setAttribute('aria-expanded', String(open));
+  };
+
+  toggle.addEventListener('click', () => setOpen(!menu.classList.contains('is-active')));
+  menu.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', () => setOpen(false));
+  });
+});
